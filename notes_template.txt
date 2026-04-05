@@ -1,0 +1,13 @@
+Loop tune-up notes
+
+Context
+- Ongoing recomp project with more food and more training.
+- Recent manual setting change: 16:00 ISF adjusted from 2.1 to 2.3 mmol/L/U.
+- Any travel, illness, bad insulin, or unusual routine:
+  - 
+
+Questions for this review
+- Is the current phase mainly meal-rise -> cleanup -> late-low?
+- Is late evening / overnight still too sharp?
+- Are training days behaving differently from non-training days?
+- What single setting change, if any, should be considered next?
