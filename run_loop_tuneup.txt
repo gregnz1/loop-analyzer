@@ -1,0 +1,11 @@
+Example quarterly review command
+
+python loop_tuneup_analyzer_v3.py \
+  --clarity-csv Clarity_Export.csv \
+  --tidepool-xlsx TidepoolExport.xlsx \
+  --outdir analysis_out \
+  --recent-start 2026-03-06 \
+  --recent-end 2026-04-04 \
+  --previous-start 2026-02-04 \
+  --previous-end 2026-03-05 \
+  --notes-file notes_template.txt
